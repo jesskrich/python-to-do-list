@@ -1,0 +1,9 @@
+# Current dependencies for CLI version
+firebase-admin==6.2.0
+
+# Additional dependencies for Flask backend
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Development dependencies
+python-dotenv==1.0.0
